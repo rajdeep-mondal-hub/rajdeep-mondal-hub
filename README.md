@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms and OOPS**
 
-- 👨‍💻 Apart from devlopment **I love to watch Movies 🎬🍿**
+- 👨‍💻 Apart from development **I love to watch Movies 🎬🍿**
 
 - 🤝 I’m looking to collaborate on **OpenSource Projects.**
 
