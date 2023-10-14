@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Rajdeep Mondal</h1>
 <h3 align="center">Engineering Student, Tech Enthusiast and Programmer from India</h3>
 
@@ -33,4 +33,5 @@
 <h3 align="left">Github Trophies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep-mondal-hub" alt="rajdeep-mondal-hub" /></a> </p>
-[![@juanvegadev's Holopin board](https://holopin.io/api/user/board?user=juanvegadev)](https://holopin.io/@juanvegadev)
+
+[![An image of @rajdeep_mondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeep_mondal)](https://holopin.io/@rajdeep_mondal)
