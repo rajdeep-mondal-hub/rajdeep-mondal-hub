@@ -33,3 +33,4 @@
 <h3 align="left">Github Trophies</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep-mondal-hub" alt="rajdeep-mondal-hub" /></a> </p>
+[![An image of @rajdeep_mondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdeep_mondal)](https://holopin.io/@rajdeep_mondal)
